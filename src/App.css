@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+  background-color: beige;
+}
+
+form {
+  display: inline-block;
+  text-align: left;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+}
+
+input {
+  padding: 5px;
+}
+
+span {
+  color: red;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 15px;
+  cursor: pointer;
+}
